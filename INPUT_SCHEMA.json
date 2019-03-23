@@ -59,6 +59,13 @@
       "prefill": 5,
       "minimum": 0
     }
+    "zip": {
+      "title": "Viewport zip",
+      "type": "string",
+      "description": "Use it with zip to set up viewport to search on.",
+      "prefill": "33467",
+      "editor": "textfield"
+  }
   },
   "required": [
     "searchString",
